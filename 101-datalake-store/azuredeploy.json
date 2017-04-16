@@ -5,7 +5,7 @@
 		"adlStoreName": {
 			"type": "string",
 			"metadata": {
-				"description": "The name of the Data Lake Store account to create."
+				"description": "Provide the name of the Data Lake Store account to create."
 			}
 		}
 	},
